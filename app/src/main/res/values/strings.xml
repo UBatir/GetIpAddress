@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetIP</string>
+    <string name="my_ip">Мой IP</string>
+    <string name="text_ip">Ваш IP адрес:</string>
+</resources>
